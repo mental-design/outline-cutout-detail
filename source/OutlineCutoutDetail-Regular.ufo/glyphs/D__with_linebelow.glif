@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="D_with_linebelow" format="2">
+  <advance width="822.7202380952381"/>
+  <unicode hex="1E0E"/>
+  <outline>
+    <contour>
+      <point x="99.5" y="0" type="line"/>
+      <point x="313.2202377319336" y="0.0" type="line"/>
+      <point x="682.6098377251574" y="0.0"/>
+      <point x="788.2202380952381" y="256.7975420746361"/>
+      <point x="788.2202380952381" y="425.0" type="curve" smooth="yes"/>
+      <point x="788.2202380952381" y="593.2024579253639"/>
+      <point x="682.6098380884619" y="850.0"/>
+      <point x="313.2202380952381" y="850.0" type="curve"/>
+      <point x="99.5" y="850" type="line"/>
+    </contour>
+    <contour>
+      <point x="202.0" y="97.375" type="line"/>
+      <point x="202.0" y="752.625" type="line"/>
+      <point x="310.6577377319336" y="752.625" type="line"/>
+      <point x="620.6970428136868" y="752.625"/>
+      <point x="684.6952380952381" y="544.3831210516901"/>
+      <point x="684.6952380952381" y="425.0" type="curve" smooth="yes"/>
+      <point x="684.6952380952381" y="305.61687894830993"/>
+      <point x="620.6970431769913" y="97.375"/>
+      <point x="310.6577380952381" y="97.375" type="curve"/>
+    </contour>
+    <contour>
+      <point x="231.8235544217687" y="-213.51689814814813" type="line"/>
+      <point x="557.5080782312925" y="-213.51689814814813" type="line"/>
+      <point x="557.5080782312925" y="-125.00082671957671" type="line"/>
+      <point x="231.8235544217687" y="-125.00082671957671" type="line"/>
+    </contour>
+  </outline>
+</glyph>

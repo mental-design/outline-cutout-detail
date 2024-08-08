@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="y_with_grave" format="2">
+  <advance width="735.795560546875"/>
+  <unicode hex="1EF3"/>
+  <outline>
+    <contour>
+      <point x="325.09874302404046" y="687.0001628744366" type="line"/>
+      <point x="430.9076114322436" y="687.0001628744366" type="line"/>
+      <point x="325.5658984805834" y="886.1694972860577" type="line"/>
+      <point x="164.71195560948968" y="886.1694972860577" type="line"/>
+    </contour>
+    <contour>
+      <point x="374.51219067382806" y="218.18688201904297" type="line"/>
+      <point x="190.50329479980462" y="613.2837524414062" type="line"/>
+      <point x="26.372999999999962" y="613.2837524414062" type="line"/>
+      <point x="293.19209179687493" y="43.672698974609375" type="line"/>
+      <point x="138.82329449462884" y="-288.28375244140625" type="line"/>
+      <point x="293.3612507324218" y="-288.28375244140625" type="line"/>
+      <point x="709.422560546875" y="613.2837524414062" type="line"/>
+      <point x="555.7961643676758" y="613.2837524414062" type="line"/>
+    </contour>
+  </outline>
+</glyph>

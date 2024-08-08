@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="combining_macronbelow" format="2">
+  <unicode hex="0331"/>
+  <outline>
+    <contour>
+      <point x="-502.82011309523807" y="-179.9219816919541" type="line"/>
+      <point x="-213.4205892857143" y="-179.9219816919541" type="line"/>
+      <point x="-213.4205892857143" y="-126.07258169195416" type="line"/>
+      <point x="-502.82011309523807" y="-126.07258169195416" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="combining_caron" format="2">
+  <unicode hex="030C"/>
+  <outline>
+    <contour>
+      <point x="-539.508556547619" y="846.6287510647705" type="line"/>
+      <point x="-360.03831881568544" y="675.7047169461182" type="line"/>
+      <point x="-180.56808108375185" y="846.6287510647705" type="line"/>
+      <point x="-294.8869134812128" y="846.6287510647705" type="line"/>
+      <point x="-360.03831881568544" y="783.2184651150635" type="line"/>
+      <point x="-425.1897241501581" y="846.6287510647705" type="line"/>
+    </contour>
+  </outline>
+</glyph>

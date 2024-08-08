@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="power" format="2">
+  <advance width="499.6994094848633"/>
+  <unicode hex="005E"/>
+  <outline>
+    <contour>
+      <point x="23.125" y="518.5416641235352" type="line"/>
+      <point x="173.4209747314453" y="518.5416641235352" type="line"/>
+      <point x="249.8497085571289" y="641.8879089355469" type="line"/>
+      <point x="326.2784423828125" y="518.5416641235352" type="line"/>
+      <point x="476.5744094848633" y="518.5416641235352" type="line"/>
+      <point x="249.8497085571289" y="880.5833358764648" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="combining_vertline" format="2">
+  <unicode hex="030D"/>
+  <outline>
+    <contour>
+      <point x="-372.71982886904755" y="652.1319380131363" type="line"/>
+      <point x="-341.96982886904755" y="652.1319380131363" type="line"/>
+      <point x="-341.96982886904755" y="837.5258660912534" type="line"/>
+      <point x="-372.71982886904755" y="837.5258660912534" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t_ss02_with_macronbelow" format="2">
+  <advance width="476.82142639160156"/>
+  <unicode hex="E23C"/>
+  <outline>
+    <contour>
+      <point x="128.7572250366211" y="0" type="line"/>
+      <point x="300.74073791503906" y="0" type="line"/>
+      <point x="300.74073791503906" y="458.1425552368164" type="line"/>
+      <point x="452.69642639160156" y="458.1425552368164" type="line"/>
+      <point x="452.69642639160156" y="619.84375" type="line"/>
+      <point x="300.74073791503906" y="619.84375" type="line"/>
+      <point x="300.74073791503906" y="829.53125" type="line"/>
+      <point x="128.7572250366211" y="829.53125" type="line"/>
+      <point x="128.7572250366211" y="619.84375" type="line"/>
+      <point x="19.125" y="619.84375" type="line"/>
+      <point x="19.125" y="458.1425552368164" type="line"/>
+      <point x="128.7572250366211" y="458.1425552368164" type="line"/>
+    </contour>
+    <contour>
+      <point x="44.24032738095238" y="-246.95503358191934" type="line"/>
+      <point x="427.58110119047615" y="-246.95503358191934" type="line"/>
+      <point x="427.58110119047615" y="-107.81128358191927" type="line"/>
+      <point x="44.24032738095238" y="-107.81128358191927" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="A_with_circumflex_and_grave" format="2">
+  <advance width="835.2238113403321"/>
+  <unicode hex="1EA6"/>
+  <outline>
+    <contour>
+      <point x="411.70713668822805" y="1206.1688587631509" type="line"/>
+      <point x="525.571832291735" y="1030.6170730488652" type="line"/>
+      <point x="558.8425905636335" y="1030.6170730488652" type="line"/>
+      <point x="444.9778949601266" y="1206.1688587631509" type="line"/>
+    </contour>
+    <contour>
+      <point x="277.60416666666663" y="913.9439544677734" type="line"/>
+      <point x="318.8347803751627" y="913.9439544677734" type="line"/>
+      <point x="417.6119028727213" y="1008.0447769165039" type="line"/>
+      <point x="516.3890253702799" y="913.9439544677734" type="line"/>
+      <point x="557.619639078776" y="913.9439544677734" type="line"/>
+      <point x="417.6119028727213" y="1047.2846603393555" type="line"/>
+    </contour>
+    <contour>
+      <point x="12.850000000000009" y="0" type="line"/>
+      <point x="45.062318420410165" y="0" type="line"/>
+      <point x="170.58359680175784" y="269.8069381713867" type="line"/>
+      <point x="662.9447647094727" y="269.8069381713867" type="line"/>
+      <point x="788.4660430908203" y="0" type="line"/>
+      <point x="822.373811340332" y="0" type="line"/>
+      <point x="686.4894577026367" y="292.07142639160156" type="line"/>
+      <point x="686.4894577026367" y="299.0073471069336" type="line"/>
+      <point x="683.2625671386719" y="299.0073471069336" type="line"/>
+      <point x="417.6119018554688" y="870" type="line"/>
+      <point x="151.96124420166018" y="299.0073471069336" type="line"/>
+      <point x="148.73435363769534" y="299.0073471069336" type="line"/>
+      <point x="148.73435363769534" y="292.0714340209961" type="line"/>
+    </contour>
+    <contour>
+      <point x="416.764176940918" y="798.9700393676758" type="line"/>
+      <point x="649.3599639892578" y="299.0073471069336" type="line"/>
+      <point x="184.16839752197268" y="299.0073471069336" type="line"/>
+    </contour>
+  </outline>
+</glyph>

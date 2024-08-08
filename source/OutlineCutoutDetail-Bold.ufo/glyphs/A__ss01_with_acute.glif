@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="A_ss01_with_acute" format="2">
+  <advance width="827.1145858764648"/>
+  <unicode hex="E120"/>
+  <outline>
+    <contour>
+      <point x="461.86291789455333" y="896.1677093505859" type="line"/>
+      <point x="637.4883222524635" y="1102.334373474121" type="line"/>
+      <point x="453.40500926418224" y="1102.334373474121" type="line"/>
+      <point x="349.14979075832287" y="896.1677093505859" type="line"/>
+    </contour>
+    <contour>
+      <point x="-12.875" y="0" type="line"/>
+      <point x="163.93669891357422" y="0" type="line"/>
+      <point x="228.52233123779297" y="165.03016662597656" type="line"/>
+      <point x="589.2295913696289" y="165.03016662597656" type="line"/>
+      <point x="653.8152236938477" y="0" type="line"/>
+      <point x="839.9895858764648" y="0" type="line"/>
+      <point x="505.3591995239258" y="850" type="line"/>
+      <point x="321.75537872314453" y="850" type="line"/>
+    </contour>
+    <contour>
+      <point x="408.87596130371094" y="625.8724212646484" type="line"/>
+      <point x="527.692626953125" y="322.27032470703125" type="line"/>
+      <point x="290.0592956542969" y="322.27032470703125" type="line"/>
+    </contour>
+  </outline>
+</glyph>

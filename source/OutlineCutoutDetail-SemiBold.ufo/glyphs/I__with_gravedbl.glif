@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I_with_gravedbl" format="2">
+  <advance width="334.88730401611326"/>
+  <unicode hex="0208"/>
+  <outline>
+    <contour>
+      <point x="42.75977978515621" y="898.8102111816406" type="line"/>
+      <point x="148.56865582275387" y="898.8102111816406" type="line"/>
+      <point x="43.22694287109371" y="1097.9795455932617" type="line"/>
+      <point x="-117.62700000000004" y="1097.9795455932617" type="line"/>
+    </contour>
+    <contour>
+      <point x="219.60353741455074" y="898.8102111816406" type="line"/>
+      <point x="318.51430401611333" y="898.8102111816406" type="line"/>
+      <point x="251.47312817382814" y="1097.9795455932617" type="line"/>
+      <point x="100.56865582275387" y="1097.9795455932617" type="line"/>
+    </contour>
+    <contour>
+      <point x="89.03142739836639" y="0" type="line"/>
+      <point x="245.98785843284915" y="0" type="line"/>
+      <point x="245.98785843284915" y="850" type="line"/>
+      <point x="89.03142739836639" y="850" type="line"/>
+    </contour>
+  </outline>
+</glyph>

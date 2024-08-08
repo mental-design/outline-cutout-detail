@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sup_N" format="2">
+  <advance width="546.1005899658203"/>
+  <unicode hex="1D3A"/>
+  <outline>
+    <contour>
+      <point x="169.30247698974608" y="701.2807083129883" type="line"/>
+      <point x="441.7010899658203" y="435.7142868041992" type="line"/>
+      <point x="441.7010899658203" y="850" type="line"/>
+      <point x="376.7981053466797" y="850" type="line"/>
+      <point x="376.7981053466797" y="593.957389831543" type="line"/>
+      <point x="104.39949999999999" y="859.523811340332" type="line"/>
+      <point x="104.39949999999999" y="445.23809814453125" type="line"/>
+      <point x="169.30247698974608" y="445.23809814453125" type="line"/>
+    </contour>
+  </outline>
+</glyph>

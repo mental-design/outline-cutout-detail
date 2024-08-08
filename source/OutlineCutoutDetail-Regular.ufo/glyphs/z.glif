@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="z" format="2">
+  <advance width="607.9925384521484"/>
+  <unicode hex="007A"/>
+  <anchor x="303.54761904761904" y="769.8838624338624" name="top" identifier="top"/>
+  <anchor x="303.54761904761904" y="-169.25886243386242" name="below" identifier="below"/>
+  <anchor x="303.54761904761904" y="300.3125" name="stroke" identifier="stroke"/>
+  <outline>
+    <contour>
+      <point x="236.1930694580078" y="95.42749786376953" type="line"/>
+      <point x="547.4925384521484" y="600.625" type="line"/>
+      <point x="82.0" y="600.625" type="line"/>
+      <point x="82.0" y="505.3641662597656" type="line"/>
+      <point x="370.9021682739258" y="505.3641662597656" type="line"/>
+      <point x="59.5" y="0" type="line"/>
+      <point x="540.0952377319336" y="0" type="line"/>
+      <point x="540.0952377319336" y="95.42749786376953" type="line"/>
+    </contour>
+  </outline>
+</glyph>

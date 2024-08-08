@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="z_with_acute" format="2">
+  <advance width="610.0460460205078"/>
+  <unicode hex="017A"/>
+  <outline>
+    <contour>
+      <point x="444.7192077621131" y="846.358708873125" type="line"/>
+      <point x="380.4990158065467" y="846.358708873125" type="line"/>
+      <point x="265.04949188076546" y="661.358708873125" type="line"/>
+      <point x="329.26968383633186" y="661.358708873125" type="line"/>
+    </contour>
+    <contour>
+      <point x="169.63792169189446" y="51.0718994140625" type="line"/>
+      <point x="539.8700460205079" y="588.5299987792969" type="line"/>
+      <point x="86.67117059326168" y="588.5299987792969" type="line"/>
+      <point x="86.67117059326168" y="537.4580993652344" type="line"/>
+      <point x="439.4081243286132" y="537.4580993652344" type="line"/>
+      <point x="69.17599999999996" y="0" type="line"/>
+      <point x="537.3748754272461" y="0" type="line"/>
+      <point x="537.3748754272461" y="51.0718994140625" type="line"/>
+    </contour>
+  </outline>
+</glyph>

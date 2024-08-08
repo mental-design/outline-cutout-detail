@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="F" format="2">
+  <advance width="626.5248591918945"/>
+  <unicode hex="0046"/>
+  <anchor x="344.95367857142855" y="981.140527164532" name="top" identifier="top"/>
+  <anchor x="163.29599999999994" y="0" name="lefthook" identifier="lefthook"/>
+  <outline>
+    <contour>
+      <point x="109.17599999999996" y="0" type="line"/>
+      <point x="163.29600274658196" y="0" type="line"/>
+      <point x="163.29600274658196" y="404.61556243896484" type="line"/>
+      <point x="532.3488591918946" y="404.61556243896484" type="line"/>
+      <point x="532.3488591918946" y="455.38443756103516" type="line"/>
+      <point x="163.29600274658196" y="455.38443756103516" type="line"/>
+      <point x="163.29600274658196" y="798.5859985351562" type="line"/>
+      <point x="577.3488591918946" y="798.5859985351562" type="line"/>
+      <point x="577.3488591918946" y="850" type="line"/>
+      <point x="109.17599999999996" y="850" type="line"/>
+    </contour>
+  </outline>
+</glyph>

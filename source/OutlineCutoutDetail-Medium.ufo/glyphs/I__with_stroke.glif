@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I_with_stroke" format="2">
+  <advance width="351.08657443183756"/>
+  <unicode hex="0197"/>
+  <outline>
+    <contour>
+      <point x="109.83660524495438" y="0" type="line"/>
+      <point x="240.37277620442705" y="0" type="line"/>
+      <point x="240.37277620442705" y="371.7653045654297" type="line"/>
+      <point x="372.37804811604815" y="371.7653045654297" type="line"/>
+      <point x="372.37804811604815" y="478.2346954345703" type="line"/>
+      <point x="240.37277620442705" y="478.2346954345703" type="line"/>
+      <point x="240.37277620442705" y="850" type="line"/>
+      <point x="109.83660524495438" y="850" type="line"/>
+      <point x="109.83660524495438" y="478.2346954345703" type="line"/>
+      <point x="-22.16866666666671" y="478.2346954345703" type="line"/>
+      <point x="-22.16866666666671" y="371.7653045654297" type="line"/>
+      <point x="109.83660524495438" y="371.7653045654297" type="line"/>
+    </contour>
+  </outline>
+</glyph>

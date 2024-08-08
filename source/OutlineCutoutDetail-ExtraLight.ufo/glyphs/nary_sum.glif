@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nary_sum" format="2">
+  <advance width="668.5548579711914"/>
+  <unicode hex="2211"/>
+  <outline>
+    <contour>
+      <point x="130.0678380737304" y="-134.30028533935547" type="line"/>
+      <point x="415.68388879394524" y="332.14286041259766" type="line"/>
+      <point x="130.0678380737304" y="798.5859985351562" type="line"/>
+      <point x="619.3788579711915" y="798.5859985351562" type="line"/>
+      <point x="619.3788579711915" y="850" type="line"/>
+      <point x="35.17599999999996" y="850" type="line"/>
+      <point x="352.27426660156243" y="332.14286041259766" type="line"/>
+      <point x="35.17599999999996" y="-185.71428680419922" type="line"/>
+      <point x="619.3788579711915" y="-185.71428680419922" type="line"/>
+      <point x="619.3788579711915" y="-134.30028533935547" type="line"/>
+    </contour>
+  </outline>
+</glyph>

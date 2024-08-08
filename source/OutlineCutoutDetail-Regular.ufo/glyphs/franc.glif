@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="franc" format="2">
+  <advance width="659.8928604125977"/>
+  <unicode hex="20A3"/>
+  <outline>
+    <contour>
+      <point x="139.5" y="0" type="line"/>
+      <point x="242.0" y="0" type="line"/>
+      <point x="242.0" y="174.19844818115234" type="line"/>
+      <point x="475.39286041259766" y="174.19844818115234" type="line"/>
+      <point x="475.39286041259766" y="262.7675018310547" type="line"/>
+      <point x="242.0" y="262.7675018310547" type="line"/>
+      <point x="242.0" y="382.34520721435547" type="line"/>
+      <point x="575.3928604125977" y="382.34520721435547" type="line"/>
+      <point x="575.3928604125977" y="477.3214569091797" type="line"/>
+      <point x="242.0" y="477.3214569091797" type="line"/>
+      <point x="242.0" y="752.625" type="line"/>
+      <point x="620.3928604125977" y="752.625" type="line"/>
+      <point x="620.3928604125977" y="850" type="line"/>
+      <point x="139.5" y="850" type="line"/>
+      <point x="139.5" y="262.7675018310547" type="line"/>
+      <point x="39.5" y="262.7675018310547" type="line"/>
+      <point x="39.5" y="174.19844818115234" type="line"/>
+      <point x="139.5" y="174.19844818115234" type="line"/>
+    </contour>
+  </outline>
+</glyph>

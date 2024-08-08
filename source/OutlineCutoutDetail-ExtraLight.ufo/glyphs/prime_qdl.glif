@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="prime_qdl" format="2">
+  <advance width="665.8884151000976"/>
+  <unicode hex="2057"/>
+  <outline>
+    <contour>
+      <point x="113.22198999023432" y="610.4400024414062" type="line"/>
+      <point x="204.3101018676757" y="850" type="line"/>
+      <point x="145.0137609252929" y="850" type="line"/>
+      <point x="67.17599999999996" y="610.4400024414062" type="line"/>
+    </contour>
+    <contour>
+      <point x="250.3560918579101" y="610.4400024414062" type="line"/>
+      <point x="341.4442037353515" y="850" type="line"/>
+      <point x="282.1478627929687" y="850" type="line"/>
+      <point x="204.3101018676757" y="610.4400024414062" type="line"/>
+    </contour>
+    <contour>
+      <point x="387.4902013549804" y="610.4400024414062" type="line"/>
+      <point x="478.57831323242186" y="850" type="line"/>
+      <point x="419.28196466064446" y="850" type="line"/>
+      <point x="341.4442037353515" y="610.4400024414062" type="line"/>
+    </contour>
+    <contour>
+      <point x="524.6243032226563" y="610.4400024414062" type="line"/>
+      <point x="615.7124151000977" y="850" type="line"/>
+      <point x="556.4160665283204" y="850" type="line"/>
+      <point x="478.57831323242186" y="610.4400024414062" type="line"/>
+    </contour>
+  </outline>
+</glyph>

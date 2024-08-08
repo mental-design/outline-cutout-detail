@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E_with_macron" format="2">
+  <advance width="658.5327377319336"/>
+  <unicode hex="0112"/>
+  <outline>
+    <contour>
+      <point x="155.70145089285714" y="932.4708323559308" type="line"/>
+      <point x="539.042224702381" y="932.4708323559308" type="line"/>
+      <point x="539.042224702381" y="1071.614582355931" type="line"/>
+      <point x="155.70145089285714" y="1071.614582355931" type="line"/>
+    </contour>
+    <contour>
+      <point x="84.125" y="0" type="line"/>
+      <point x="599.4077377319336" y="0" type="line"/>
+      <point x="599.4077377319336" y="170.40625" type="line"/>
+      <point x="263.5" y="170.40625" type="line"/>
+      <point x="263.5" y="346.84251403808594" type="line"/>
+      <point x="569.4077377319336" y="346.84251403808594" type="line"/>
+      <point x="569.4077377319336" y="507.8658218383789" type="line"/>
+      <point x="263.5" y="507.8658218383789" type="line"/>
+      <point x="263.5" y="679.59375" type="line"/>
+      <point x="599.4077377319336" y="679.59375" type="line"/>
+      <point x="599.4077377319336" y="850" type="line"/>
+      <point x="84.125" y="850" type="line"/>
+    </contour>
+  </outline>
+</glyph>

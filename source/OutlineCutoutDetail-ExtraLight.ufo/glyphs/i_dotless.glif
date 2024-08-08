@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i_dotless" format="2">
+  <advance width="275.23472430344816"/>
+  <unicode hex="0131"/>
+  <anchor x="137.05594835862064" y="741.5272816919539" name="top" identifier="top"/>
+  <outline>
+    <contour>
+      <point x="110.17599999999996" y="0" type="line"/>
+      <point x="165.05872430344823" y="0" type="line"/>
+      <point x="165.05872430344823" y="588.53" type="line"/>
+      <point x="110.17599999999996" y="588.53" type="line"/>
+    </contour>
+  </outline>
+</glyph>

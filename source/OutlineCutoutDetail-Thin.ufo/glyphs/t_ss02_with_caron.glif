@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t_ss02_with_caron" format="2">
+  <advance width="415.1569338630228"/>
+  <unicode hex="E234"/>
+  <outline>
+    <contour>
+      <point x="282.88874921807803" y="672.2049777757533" type="line"/>
+      <point x="313.1707011223749" y="672.2049777757533" type="line"/>
+      <point x="313.2962122918085" y="859.1216418992884" type="line"/>
+      <point x="282.88874921807803" y="859.1216418992884" type="line"/>
+    </contour>
+    <contour>
+      <point x="162.6276336669922" y="0" type="line"/>
+      <point x="193.37127075195315" y="0" type="line"/>
+      <point x="193.37127075195315" y="553.482551574707" type="line"/>
+      <point x="347.18928680419924" y="553.482551574707" type="line"/>
+      <point x="347.18928680419924" y="582.6875" type="line"/>
+      <point x="193.37127075195315" y="582.6875" type="line"/>
+      <point x="193.37127075195315" y="752.6875" type="line"/>
+      <point x="162.6276336669922" y="752.6875" type="line"/>
+      <point x="162.6276336669922" y="582.6875" type="line"/>
+      <point x="48.85000000000001" y="582.6875" type="line"/>
+      <point x="48.85000000000001" y="553.482551574707" type="line"/>
+      <point x="162.6276336669922" y="553.482551574707" type="line"/>
+    </contour>
+  </outline>
+</glyph>

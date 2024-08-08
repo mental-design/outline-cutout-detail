@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="combining_gravedbl" format="2">
+  <unicode hex="030F"/>
+  <outline>
+    <contour>
+      <point x="-476.76716005002476" y="683.0171417588989" type="line"/>
+      <point x="-379.7717834631107" y="683.0171417588989" type="line"/>
+      <point x="-485.94520723020054" y="875.3531402940552" type="line"/>
+      <point x="-622.6648498693608" y="875.3531402940552" type="line"/>
+    </contour>
+    <contour>
+      <point x="-317.468995682349" y="683.0171417588989" type="line"/>
+      <point x="-226.5372024694583" y="683.0171417588989" type="line"/>
+      <point x="-298.3821121374271" y="875.3531402940552" type="line"/>
+      <point x="-427.7717834631107" y="875.3531402940552" type="line"/>
+    </contour>
+  </outline>
+</glyph>

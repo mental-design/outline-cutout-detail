@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="y_ss01" format="2">
+  <advance width="710.976239868164"/>
+  <unicode hex="E109"/>
+  <anchor x="358.0357377319335" y="787.6271618495713" name="top" identifier="top"/>
+  <anchor x="553.9762377319337" y="-174.34341184957125" name="below" identifier="below"/>
+  <outline>
+    <contour>
+      <point x="362.0437382202148" y="205.05266571044922" type="line"/>
+      <point x="188.2666462402343" y="613.2837524414062" type="line"/>
+      <point x="26.372999999999962" y="613.2837524414062" type="line"/>
+      <point x="281.805029724121" y="16.5018310546875" type="line"/>
+      <point x="152.34248242187493" y="-288.28375244140625" type="line"/>
+      <point x="304.64643749999993" y="-288.28375244140625" type="line"/>
+      <point x="684.6032398681641" y="613.2837524414062" type="line"/>
+      <point x="533.1511372070313" y="613.2837524414062" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N_ss01_with_circumflexbelow" format="2">
+  <advance width="886.5052108764648"/>
+  <unicode hex="E141"/>
+  <outline>
+    <contour>
+      <point x="84.125" y="850" type="line"/>
+      <point x="84.125" y="0" type="line"/>
+      <point x="254.53125" y="0" type="line"/>
+      <point x="254.53125" y="538.0189056396484" type="line"/>
+      <point x="636.7286682128906" y="0" type="line"/>
+      <point x="802.3802108764648" y="0" type="line"/>
+      <point x="802.3802108764648" y="850" type="line"/>
+      <point x="631.9739608764648" y="850" type="line"/>
+      <point x="631.9739608764648" y="311.98109436035156" type="line"/>
+      <point x="249.77654266357422" y="850" type="line"/>
+    </contour>
+    <contour>
+      <point x="221.50111607142856" y="-265.71416549839705" type="line"/>
+      <point x="380.6446326119559" y="-265.71416549839705" type="line"/>
+      <point x="443.25260380336215" y="-203.90613632359236" type="line"/>
+      <point x="505.8605749947684" y="-265.71416549839705" type="line"/>
+      <point x="665.0040915352957" y="-265.71416549839705" type="line"/>
+      <point x="443.25260380336215" y="-54.52227096714705" type="line"/>
+    </contour>
+  </outline>
+</glyph>

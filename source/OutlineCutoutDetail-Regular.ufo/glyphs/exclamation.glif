@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclamation" format="2">
+  <advance width="366.69047619047615"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="223.19940221877323" y="234.55873107910156" type="line"/>
+      <point x="247.58036077590214" y="865" type="line"/>
+      <point x="119.11011541457403" y="865" type="line"/>
+      <point x="143.49107397170292" y="234.55873107910156" type="line"/>
+    </contour>
+    <contour>
+      <point x="266.19047619047615" y="67.84523809523809" type="curve" smooth="yes"/>
+      <point x="266.19047619047615" y="113.56876933547619"/>
+      <point x="229.0687693354762" y="150.69047619047618"/>
+      <point x="183.34523809523807" y="150.69047619047618" type="curve" smooth="yes"/>
+      <point x="137.621706855" y="150.69047619047618"/>
+      <point x="100.5" y="113.56876933547619"/>
+      <point x="100.5" y="67.84523809523809" type="curve" smooth="yes"/>
+      <point x="100.5" y="22.121706855"/>
+      <point x="137.62170685499996" y="-15.0"/>
+      <point x="183.34523809523807" y="-15.0" type="curve" smooth="yes"/>
+      <point x="229.0687693354762" y="-15.000000000000014"/>
+      <point x="266.19047619047615" y="22.121706854999978"/>
+    </contour>
+  </outline>
+</glyph>

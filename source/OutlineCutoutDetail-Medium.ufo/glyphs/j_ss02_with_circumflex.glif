@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="j_ss02_with_circumflex" format="2">
+  <advance width="346.5760484793526"/>
+  <unicode hex="E232"/>
+  <outline>
+    <contour>
+      <point x="-19.959142857142893" y="697.7331146592895" type="line"/>
+      <point x="112.2383669084821" y="697.7331146592895" type="line"/>
+      <point x="173.26659566824773" y="757.4482101793091" type="line"/>
+      <point x="234.29482442801336" y="697.7331146592895" type="line"/>
+      <point x="366.4923341936384" y="697.7331146592895" type="line"/>
+      <point x="173.26659566824773" y="881.7576279039184" type="line"/>
+    </contour>
+    <contour>
+      <point x="108.83084094154347" y="-281.8775" type="line"/>
+      <point x="237.7023495346469" y="-281.8775" type="line"/>
+      <point x="237.7023495346469" y="606.8775" type="line"/>
+      <point x="108.83084094154347" y="606.8775" type="line"/>
+    </contour>
+  </outline>
+</glyph>

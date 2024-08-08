@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutedbl" format="2">
+  <advance width="526.9740932006835"/>
+  <unicode hex="02DD"/>
+  <anchor x="226.7319277787064" y="981.140527164532" name="center" identifier="center"/>
+  <outline>
+    <contour>
+      <point x="417.7980932006835" y="1085.9719543457031" type="line"/>
+      <point x="353.5779012451171" y="1085.9719543457031" type="line"/>
+      <point x="238.1283773193359" y="900.9719543457031" type="line"/>
+      <point x="302.3485692749023" y="900.9719543457031" type="line"/>
+    </contour>
+    <contour>
+      <point x="276.29694879150384" y="1085.9719543457031" type="line"/>
+      <point x="213.34158074951168" y="1085.9719543457031" type="line"/>
+      <point x="109.17599999999996" y="900.9719543457031" type="line"/>
+      <point x="172.13136804199215" y="900.9719543457031" type="line"/>
+    </contour>
+  </outline>
+</glyph>

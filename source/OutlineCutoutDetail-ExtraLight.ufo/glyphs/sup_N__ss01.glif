@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sup_N_ss01" format="2">
+  <advance width="555.6535899658202"/>
+  <unicode hex="E118"/>
+  <outline>
+    <contour>
+      <point x="109.17599999999996" y="850" type="line"/>
+      <point x="109.17599999999996" y="445.23809814453125" type="line"/>
+      <point x="157.38283288574212" y="445.23809814453125" type="line"/>
+      <point x="157.38283288574212" y="749.4208297729492" type="line"/>
+      <point x="417.79558312988274" y="445.23809814453125" type="line"/>
+      <point x="446.47758996582024" y="445.23809814453125" type="line"/>
+      <point x="446.47758996582024" y="850" type="line"/>
+      <point x="398.27075708007806" y="850" type="line"/>
+      <point x="398.27075708007806" y="545.8172607421875" type="line"/>
+      <point x="137.85800683593743" y="850" type="line"/>
+    </contour>
+  </outline>
+</glyph>

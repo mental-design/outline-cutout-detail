@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l_with_circumflexbelow" format="2">
+  <advance width="303.9404754638672"/>
+  <unicode hex="1E3D"/>
+  <outline>
+    <contour>
+      <point x="100.05773809523811" y="0" type="line"/>
+      <point x="203.8827380952381" y="0" type="line"/>
+      <point x="203.8827380952381" y="875.625" type="line"/>
+      <point x="100.05773809523811" y="875.625" type="line"/>
+    </contour>
+    <contour>
+      <point x="-27.5" y="-246.00375804367695" type="line"/>
+      <point x="86.81883239746094" y="-246.00375804367695" type="line"/>
+      <point x="151.9702377319336" y="-182.59347209396992" type="line"/>
+      <point x="217.12164306640625" y="-246.00375804367695" type="line"/>
+      <point x="331.4404754638672" y="-246.00375804367695" type="line"/>
+      <point x="151.9702377319336" y="-75.07971629563008" type="line"/>
+    </contour>
+  </outline>
+</glyph>

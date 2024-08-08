@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L_with_commabelow" format="2">
+  <advance width="579.4166641235352"/>
+  <unicode hex="013B"/>
+  <outline>
+    <contour>
+      <point x="99.5" y="0" type="line"/>
+      <point x="539.9166641235352" y="0" type="line"/>
+      <point x="539.9166641235352" y="97.375" type="line"/>
+      <point x="202.0" y="97.375" type="line"/>
+      <point x="202.0" y="850" type="line"/>
+      <point x="99.5" y="850" type="line"/>
+    </contour>
+    <contour>
+      <point x="243.2837965043798" y="-275.625" type="line"/>
+      <point x="375.6632978471532" y="-89.95833587646484" type="line"/>
+      <point x="263.75337047898915" y="-89.95833587646484" type="line"/>
+      <point x="156.99030132615715" y="-275.625" type="line"/>
+    </contour>
+  </outline>
+</glyph>

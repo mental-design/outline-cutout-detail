@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="y_ss01_with_circumflex" format="2">
+  <advance width="676.1450679321289"/>
+  <unicode hex="E160"/>
+  <outline>
+    <contour>
+      <point x="185.7103316679454" y="676.0153250840625" type="line"/>
+      <point x="257.2177245512462" y="676.0153250840625" type="line"/>
+      <point x="338.57156824021104" y="754.1591544297656" type="line"/>
+      <point x="419.9254119291759" y="676.0153250840625" type="line"/>
+      <point x="491.4328048124767" y="676.0153250840625" type="line"/>
+      <point x="338.57156824021104" y="821.5974555161914" type="line"/>
+    </contour>
+    <contour>
+      <point x="340.05222833251946" y="83.15380859375" type="line"/>
+      <point x="105.52373254394526" y="588.5299987792969" type="line"/>
+      <point x="46.17599999999996" y="588.5299987792969" type="line"/>
+      <point x="310.53400933837884" y="19.627342224121094" type="line"/>
+      <point x="179.11972558593743" y="-263.5299987792969" type="line"/>
+      <point x="235.38484704589837" y="-263.5299987792969" type="line"/>
+      <point x="629.969067932129" y="588.5299987792969" type="line"/>
+      <point x="573.7801793823243" y="588.5299987792969" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I_with_caron" format="2">
+  <advance width="272.0744731445311"/>
+  <unicode hex="01CF"/>
+  <outline>
+    <contour>
+      <point x="-16.82400000000004" y="1046.652488708496" type="line"/>
+      <point x="136.03723657226556" y="901.0703582763672" type="line"/>
+      <point x="288.8984731445312" y="1046.652488708496" type="line"/>
+      <point x="217.39108789062493" y="1046.652488708496" type="line"/>
+      <point x="136.03723657226556" y="968.5086517333984" type="line"/>
+      <point x="54.683385253906195" y="1046.652488708496" type="line"/>
+    </contour>
+    <contour>
+      <point x="108.6029622331691" y="0" type="line"/>
+      <point x="163.47151395730702" y="0" type="line"/>
+      <point x="163.47151395730702" y="850" type="line"/>
+      <point x="108.6029622331691" y="850" type="line"/>
+    </contour>
+  </outline>
+</glyph>

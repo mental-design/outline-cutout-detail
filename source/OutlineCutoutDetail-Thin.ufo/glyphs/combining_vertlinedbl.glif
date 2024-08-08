@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="combining_vertlinedbl" format="2">
+  <unicode hex="030E"/>
+  <outline>
+    <contour>
+      <point x="-432.82161458333326" y="652.1319380131363" type="line"/>
+      <point x="-402.07161458333326" y="652.1319380131363" type="line"/>
+      <point x="-402.07161458333326" y="837.5258660912534" type="line"/>
+      <point x="-432.82161458333326" y="837.5258660912534" type="line"/>
+    </contour>
+    <contour>
+      <point x="-312.61804315476184" y="652.1319380131363" type="line"/>
+      <point x="-281.86804315476184" y="652.1319380131363" type="line"/>
+      <point x="-281.86804315476184" y="837.5258660912534" type="line"/>
+      <point x="-312.61804315476184" y="837.5258660912534" type="line"/>
+    </contour>
+  </outline>
+</glyph>

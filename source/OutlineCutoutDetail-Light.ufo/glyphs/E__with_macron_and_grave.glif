@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E_with_macron_and_grave" format="2">
+  <advance width="653.8948633422851"/>
+  <unicode hex="1E14"/>
+  <outline>
+    <contour>
+      <point x="311.56179442570567" y="1064.9012150194949" type="line"/>
+      <point x="382.31596175701975" y="1064.9012150194949" type="line"/>
+      <point x="284.55906867821574" y="1227.9648400194947" type="line"/>
+      <point x="205.52828078644637" y="1227.9648400194947" type="line"/>
+    </contour>
+    <contour>
+      <point x="188.22931026785716" y="951.939994439686" type="line"/>
+      <point x="495.54070907738094" y="951.939994439686" type="line"/>
+      <point x="495.54070907738094" y="1024.7762217164716" type="line"/>
+      <point x="188.22931026785716" y="1024.7762217164716" type="line"/>
+    </contour>
+    <contour>
+      <point x="104.39949999999999" y="0" type="line"/>
+      <point x="574.4953633422851" y="0" type="line"/>
+      <point x="574.4953633422851" y="74.10237121582031" type="line"/>
+      <point x="182.40200244140624" y="74.10237121582031" type="line"/>
+      <point x="182.40200244140624" y="394.1376266479492" type="line"/>
+      <point x="544.4953633422851" y="394.1376266479492" type="line"/>
+      <point x="544.4953633422851" y="465.8623733520508" type="line"/>
+      <point x="182.40200244140624" y="465.8623733520508" type="line"/>
+      <point x="182.40200244140624" y="775.8976287841797" type="line"/>
+      <point x="574.4953633422851" y="775.8976287841797" type="line"/>
+      <point x="574.4953633422851" y="850" type="line"/>
+      <point x="104.39949999999999" y="850" type="line"/>
+    </contour>
+  </outline>
+</glyph>

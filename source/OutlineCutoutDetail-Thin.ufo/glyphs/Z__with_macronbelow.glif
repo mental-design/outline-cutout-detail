@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Z_with_macronbelow" format="2">
+  <advance width="702.1970245361329"/>
+  <unicode hex="1E94"/>
+  <outline>
+    <contour>
+      <point x="126.0541244506836" y="29.212501525878906" type="line"/>
+      <point x="633.3470245361328" y="850" type="line"/>
+      <point x="86.85000000000001" y="850" type="line"/>
+      <point x="86.85000000000001" y="820.7874984741211" type="line"/>
+      <point x="579.1429000854492" y="820.7874984741211" type="line"/>
+      <point x="71.85000000000001" y="0" type="line"/>
+      <point x="628.3470245361328" y="0" type="line"/>
+      <point x="628.3470245361328" y="29.212501525878906" type="line"/>
+    </contour>
+    <contour>
+      <point x="216.66250000000002" y="-159.90327729885064" type="line"/>
+      <point x="488.5345238095239" y="-159.90327729885064" type="line"/>
+      <point x="488.5345238095239" y="-129.3070272988507" type="line"/>
+      <point x="216.66250000000002" y="-129.3070272988507" type="line"/>
+    </contour>
+  </outline>
+</glyph>

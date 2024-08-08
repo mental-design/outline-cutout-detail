@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nary_product" format="2">
+  <advance width="738.1458489379883"/>
+  <unicode hex="220F"/>
+  <outline>
+    <contour>
+      <point x="89.37299999999996" y="-185.71428680419922" type="line"/>
+      <point x="242.5080021362304" y="-185.71428680419922" type="line"/>
+      <point x="242.5080021362304" y="704.5217514038086" type="line"/>
+      <point x="495.6378544311523" y="704.5217514038086" type="line"/>
+      <point x="495.6378544311523" y="-185.71428680419922" type="line"/>
+      <point x="648.7728489379883" y="-185.71428680419922" type="line"/>
+      <point x="648.7728489379883" y="850" type="line"/>
+      <point x="89.37299999999996" y="850" type="line"/>
+    </contour>
+  </outline>
+</glyph>

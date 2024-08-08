@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="won_ss01" format="2">
+  <advance width="1292.1229045410155"/>
+  <unicode hex="E11A"/>
+  <outline>
+    <contour>
+      <point x="49.17599999999996" y="454.2722854614258" type="line"/>
+      <point x="216.71427667236324" y="454.2722854614258" type="line"/>
+      <point x="352.08579003906243" y="0" type="line"/>
+      <point x="396.353879333496" y="0" type="line"/>
+      <point x="646.0614522705077" y="753.9367599487305" type="line"/>
+      <point x="895.7690252075195" y="0" type="line"/>
+      <point x="940.037114501953" y="0" type="line"/>
+      <point x="1075.4086278686523" y="454.2722854614258" type="line"/>
+      <point x="1242.9469045410156" y="454.2722854614258" type="line"/>
+      <point x="1242.9469045410156" y="505.68628692626953" type="line"/>
+      <point x="1090.7298177490234" y="505.68628692626953" type="line"/>
+      <point x="1193.3340657958984" y="850" type="line"/>
+      <point x="1139.822354675293" y="850" type="line"/>
+      <point x="917.4669774780273" y="102.20030212402344" type="line"/>
+      <point x="670.2912343749999" y="850" type="line"/>
+      <point x="624.6491292724609" y="850" type="line"/>
+      <point x="377.4733861694335" y="102.20030212402344" type="line"/>
+      <point x="155.11800897216793" y="850" type="line"/>
+      <point x="98.78883874511715" y="850" type="line"/>
+      <point x="201.39308679199215" y="505.68628692626953" type="line"/>
+      <point x="49.17599999999996" y="505.68628692626953" type="line"/>
+    </contour>
+  </outline>
+</glyph>

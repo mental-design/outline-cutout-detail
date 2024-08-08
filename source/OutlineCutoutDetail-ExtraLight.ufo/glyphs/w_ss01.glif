@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="w_ss01" format="2">
+  <advance width="929.3135097045898"/>
+  <unicode hex="E108"/>
+  <anchor x="464.6567537345697" y="741.5272816919539" name="top" identifier="top"/>
+  <anchor x="464.6567537345697" y="-152.99728169195402" name="below" identifier="below"/>
+  <outline>
+    <contour>
+      <point x="666.2792638549805" y="85.04713439941406" type="line"/>
+      <point x="487.5324529418945" y="583.5299987792969" type="line"/>
+      <point x="444.52619683837884" y="583.5299987792969" type="line"/>
+      <point x="265.7793859252929" y="85.04713439941406" type="line"/>
+      <point x="102.25434625244135" y="588.5299987792969" type="line"/>
+      <point x="46.17599999999996" y="588.5299987792969" type="line"/>
+      <point x="237.5958150634765" y="0" type="line"/>
+      <point x="285.74348962402337" y="0" type="line"/>
+      <point x="464.65675103759764" y="498.23673248291016" type="line"/>
+      <point x="643.5700124511719" y="0" type="line"/>
+      <point x="691.7176870117188" y="0" type="line"/>
+      <point x="883.1375097045899" y="588.5299987792969" type="line"/>
+      <point x="829.8043035278321" y="588.5299987792969" type="line"/>
+    </contour>
+  </outline>
+</glyph>

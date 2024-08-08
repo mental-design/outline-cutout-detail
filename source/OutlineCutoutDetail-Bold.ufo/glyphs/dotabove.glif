@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotabove" format="2">
+  <advance width="378.5376361949234"/>
+  <unicode hex="02D9"/>
+  <anchor x="189.2688180974617" y="1002.0427073559308" name="center" identifier="center"/>
+  <anchor x="189.2688180974617" y="1216.9951474326758" name="top" identifier="top"/>
+  <outline>
+    <contour>
+      <point x="294.4126361949234" y="1002.0427073559308" type="curve" smooth="yes"/>
+      <point x="294.4126361949234" y="1060.0731598240677"/>
+      <point x="247.2992705655986" y="1107.1865254533925"/>
+      <point x="189.2688180974617" y="1107.1865254533925" type="curve" smooth="yes"/>
+      <point x="131.23836562932473" y="1107.1865254533925"/>
+      <point x="84.125" y="1060.0731598240677"/>
+      <point x="84.125" y="1002.0427073559308" type="curve" smooth="yes"/>
+      <point x="84.12499999999999" y="944.0122548877939"/>
+      <point x="131.23836562932473" y="896.8988892584691"/>
+      <point x="189.2688180974617" y="896.8988892584691" type="curve" smooth="yes"/>
+      <point x="247.2992705655986" y="896.8988892584691"/>
+      <point x="294.4126361949234" y="944.0122548877939"/>
+    </contour>
+  </outline>
+</glyph>

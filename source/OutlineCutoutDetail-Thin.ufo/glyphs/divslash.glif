@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="divslash" format="2">
+  <advance width="355.82719726562505"/>
+  <unicode hex="2215"/>
+  <outline>
+    <contour>
+      <point x="299.9189086914063" y="932.6875" type="line"/>
+      <point x="27.85000000000001" y="-82.6875" type="line"/>
+      <point x="58.90828857421876" y="-82.6875" type="line"/>
+      <point x="330.977197265625" y="932.6875" type="line"/>
+    </contour>
+  </outline>
+</glyph>

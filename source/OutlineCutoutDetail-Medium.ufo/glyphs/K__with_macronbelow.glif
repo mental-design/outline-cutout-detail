@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="K_with_macronbelow" format="2">
+  <advance width="725.1342217407226"/>
+  <unicode hex="1E34"/>
+  <outline>
+    <contour>
+      <point x="94.49799999999996" y="0" type="line"/>
+      <point x="222.0080021362304" y="0" type="line"/>
+      <point x="222.0080021362304" y="324.4391098022461" type="line"/>
+      <point x="243.8464802246093" y="348.1703796386719" type="line"/>
+      <point x="565.5518330078125" y="0" type="line"/>
+      <point x="735.6362217407227" y="0" type="line"/>
+      <point x="327.4839542846679" y="439.05690002441406" type="line"/>
+      <point x="705.6504963378907" y="850" type="line"/>
+      <point x="547.1777409057618" y="850" type="line"/>
+      <point x="222.0080021362304" y="494.9515609741211" type="line"/>
+      <point x="222.0080021362304" y="850" type="line"/>
+      <point x="94.49799999999996" y="850" type="line"/>
+    </contour>
+    <contour>
+      <point x="188.3531785714285" y="-224.87633510706075" type="line"/>
+      <point x="532.7952023809523" y="-224.87633510706075" type="line"/>
+      <point x="532.7952023809523" y="-118.40694236420359" type="line"/>
+      <point x="188.3531785714285" y="-118.40694236420359" type="line"/>
+    </contour>
+  </outline>
+</glyph>

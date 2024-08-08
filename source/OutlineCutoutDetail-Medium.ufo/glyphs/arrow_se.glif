@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arrow_se" format="2">
+  <advance width="728.7546135864258"/>
+  <unicode hex="2198"/>
+  <outline>
+    <contour>
+      <point x="574.982245300293" y="626.712028503418" type="line"/>
+      <point x="583.3326023559571" y="305.6319122314453" type="line"/>
+      <point x="119.46208843994135" y="769.5024261474609" type="line"/>
+      <point x="31.497999999999962" y="681.5383377075195" type="line"/>
+      <point x="495.3685139160156" y="217.6678237915039" type="line"/>
+      <point x="174.2883976440429" y="226.01818084716797" type="line"/>
+      <point x="292.5627659301757" y="107.74381256103516" type="line"/>
+      <point x="693.2566135864258" y="107.74381256103516" type="line"/>
+      <point x="693.2566135864258" y="508.43766021728516" type="line"/>
+    </contour>
+  </outline>
+</glyph>

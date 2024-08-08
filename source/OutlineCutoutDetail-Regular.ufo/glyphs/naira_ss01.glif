@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="naira_ss01" format="2">
+  <advance width="995.6458358764648"/>
+  <unicode hex="E119"/>
+  <outline>
+    <contour>
+      <point x="143.5" y="850" type="line"/>
+      <point x="143.5" y="576.0860137939453" type="line"/>
+      <point x="43.5" y="576.0860137939453" type="line"/>
+      <point x="43.5" y="476.29493713378906" type="line"/>
+      <point x="143.5" y="476.29493713378906" type="line"/>
+      <point x="143.5" y="373.70506286621094" type="line"/>
+      <point x="43.5" y="373.70506286621094" type="line"/>
+      <point x="43.5" y="273.9139862060547" type="line"/>
+      <point x="143.5" y="273.9139862060547" type="line"/>
+      <point x="143.5" y="0" type="line"/>
+      <point x="240.875" y="0" type="line"/>
+      <point x="240.875" y="683.6483688354492" type="line"/>
+      <point x="752.4371795654297" y="0" type="line"/>
+      <point x="852.1458358764648" y="0" type="line"/>
+      <point x="852.1458358764648" y="273.9139862060547" type="line"/>
+      <point x="952.1458358764648" y="273.9139862060547" type="line"/>
+      <point x="952.1458358764648" y="373.70506286621094" type="line"/>
+      <point x="852.1458358764648" y="373.70506286621094" type="line"/>
+      <point x="852.1458358764648" y="476.29493713378906" type="line"/>
+      <point x="952.1458358764648" y="476.29493713378906" type="line"/>
+      <point x="952.1458358764648" y="576.0860137939453" type="line"/>
+      <point x="852.1458358764648" y="576.0860137939453" type="line"/>
+      <point x="852.1458358764648" y="850" type="line"/>
+      <point x="754.7708358764648" y="850" type="line"/>
+      <point x="754.7708358764648" y="166.35163116455078" type="line"/>
+      <point x="243.20865631103516" y="850" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="combining_circumflex" format="2">
+  <unicode hex="0302"/>
+  <outline>
+    <contour>
+      <point x="-510.9815892857143" y="676.0153250840625" type="line"/>
+      <point x="-439.4741964024135" y="676.0153250840625" type="line"/>
+      <point x="-358.12035271344865" y="754.1591544297656" type="line"/>
+      <point x="-276.7665090244838" y="676.0153250840625" type="line"/>
+      <point x="-205.25911614118303" y="676.0153250840625" type="line"/>
+      <point x="-358.12035271344865" y="821.5974555161914" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="V_ss01" format="2">
+  <advance width="811.6853358764648"/>
+  <unicode hex="E104"/>
+  <anchor x="405.8426666666666" y="981.140527164532" name="top" identifier="top"/>
+  <anchor x="405.8426666666666" y="-152.99728169195402" name="below" identifier="below"/>
+  <outline>
+    <contour>
+      <point x="802.5093358764649" y="850" type="line"/>
+      <point x="746.690877319336" y="850" type="line"/>
+      <point x="407.3149770507812" y="60.792503356933594" type="line"/>
+      <point x="67.93908441162104" y="850" type="line"/>
+      <point x="9.17599999999996" y="850" type="line"/>
+      <point x="375.5197423706054" y="0" type="line"/>
+      <point x="436.16558587646483" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

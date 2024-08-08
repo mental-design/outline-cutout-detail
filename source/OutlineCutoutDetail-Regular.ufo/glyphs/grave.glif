@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave" format="2">
+  <advance width="417.6729965209961"/>
+  <unicode hex="0060"/>
+  <anchor x="268.8624274700876" y="995.0790249433106" name="center" identifier="center"/>
+  <anchor x="268.8624274700876" y="904.5790249433106" name="bottom" identifier="bottom"/>
+  <outline>
+    <contour>
+      <point x="231.87950134277344" y="904.5790252685547" type="line"/>
+      <point x="318.1729965209961" y="904.5790252685547" type="line"/>
+      <point x="211.40992736816406" y="1090.2456893920898" type="line"/>
+      <point x="99.5" y="1090.2456893920898" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N_with_macronbelow" format="2">
+  <advance width="907.6458358764648"/>
+  <unicode hex="1E48"/>
+  <outline>
+    <contour>
+      <point x="196.875" y="620.9108734130859" type="line"/>
+      <point x="808.1458358764648" y="-20.333335876464844" type="line"/>
+      <point x="808.1458358764648" y="850" type="line"/>
+      <point x="710.7708358764648" y="850" type="line"/>
+      <point x="710.7708358764648" y="229.08912658691406" type="line"/>
+      <point x="99.5" y="870.3333358764648" type="line"/>
+      <point x="99.5" y="0" type="line"/>
+      <point x="196.875" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="290.9806547619047" y="-213.51689814814813" type="line"/>
+      <point x="616.6651785714286" y="-213.51689814814813" type="line"/>
+      <point x="616.6651785714286" y="-125.00082671957671" type="line"/>
+      <point x="290.9806547619047" y="-125.00082671957671" type="line"/>
+    </contour>
+  </outline>
+</glyph>

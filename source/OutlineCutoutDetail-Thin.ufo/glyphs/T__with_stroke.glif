@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T_with_stroke" format="2">
+  <advance width="666.1067957024825"/>
+  <unicode hex="0166"/>
+  <outline>
+    <contour>
+      <point x="348.42840166593857" y="0" type="line"/>
+      <point x="348.42840166593857" y="402.0143737792969" type="line"/>
+      <point x="477.1087529232628" y="402.0143737792969" type="line"/>
+      <point x="477.1087529232628" y="432.6106262207031" type="line"/>
+      <point x="348.42840166593857" y="432.6106262207031" type="line"/>
+      <point x="348.42840166593857" y="820.7874984741211" type="line"/>
+      <point x="607.7304799130088" y="820.7874984741211" type="line"/>
+      <point x="607.7304799130088" y="850" type="line"/>
+      <point x="58.37631578947369" y="850" type="line"/>
+      <point x="58.37631578947369" y="820.7874984741211" type="line"/>
+      <point x="317.67840166593857" y="820.7874984741211" type="line"/>
+      <point x="317.67840166593857" y="432.6106262207031" type="line"/>
+      <point x="188.9980427792198" y="432.6106262207031" type="line"/>
+      <point x="188.9980427792198" y="402.0143737792969" type="line"/>
+      <point x="317.67840166593857" y="402.0143737792969" type="line"/>
+      <point x="317.67840166593857" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

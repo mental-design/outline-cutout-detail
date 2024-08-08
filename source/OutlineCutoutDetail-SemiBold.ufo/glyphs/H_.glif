@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="H" format="2">
+  <advance width="798.5438591918945"/>
+  <unicode hex="0048"/>
+  <anchor x="399.27192857142853" y="999.4372101567753" name="top" identifier="top"/>
+  <anchor x="399.27192857142853" y="-174.34341184957125" name="below" identifier="below"/>
+  <anchor x="399.27192857142853" y="673.8695625" name="stroke" identifier="stroke"/>
+  <anchor x="165.94049999999993" y="0" name="bottom" identifier="bottom"/>
+  <outline>
+    <contour>
+      <point x="89.37299999999996" y="0" type="line"/>
+      <point x="242.5080021362304" y="0" type="line"/>
+      <point x="242.5080021362304" y="357.26087188720703" type="line"/>
+      <point x="556.0358570556641" y="357.26087188720703" type="line"/>
+      <point x="556.0358570556641" y="0" type="line"/>
+      <point x="709.1708591918946" y="0" type="line"/>
+      <point x="709.1708591918946" y="850" type="line"/>
+      <point x="556.0358570556641" y="850" type="line"/>
+      <point x="556.0358570556641" y="502.73912811279297" type="line"/>
+      <point x="242.5080021362304" y="502.73912811279297" type="line"/>
+      <point x="242.5080021362304" y="850" type="line"/>
+      <point x="89.37299999999996" y="850" type="line"/>
+    </contour>
+  </outline>
+</glyph>

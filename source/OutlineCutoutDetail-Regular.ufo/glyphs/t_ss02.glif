@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t_ss02" format="2">
+  <advance width="419.7142868041992"/>
+  <unicode hex="E204"/>
+  <anchor x="190.95799319727894" y="882.4814436885865" name="top" identifier="top"/>
+  <anchor x="345.96228898966996" y="705.404295792391" name="caron" identifier="caron"/>
+  <anchor x="196.4243764172336" y="882.4814436885865" name="_diaeresis" identifier="_diaeresis"/>
+  <anchor x="190.95799319727894" y="0" name="bottom" identifier="bottom"/>
+  <anchor x="190.95799319727894" y="-169.25886243386242" name="below" identifier="below"/>
+  <anchor x="207.3571428571429" y="-169.25886243386242" name="_macronbelow" identifier="_macronbelow"/>
+  <anchor x="207.3571428571429" y="297.83731875" name="stroke" identifier="stroke"/>
+  <outline>
+    <contour>
+      <point x="140.73299407958984" y="0" type="line"/>
+      <point x="241.18299102783203" y="0" type="line"/>
+      <point x="241.18299102783203" y="505.6746368408203" type="line"/>
+      <point x="380.2142868041992" y="505.6746368408203" type="line"/>
+      <point x="380.2142868041992" y="600.625" type="line"/>
+      <point x="241.18299102783203" y="600.625" type="line"/>
+      <point x="241.18299102783203" y="771.875" type="line"/>
+      <point x="140.73299407958984" y="771.875" type="line"/>
+      <point x="140.73299407958984" y="600.625" type="line"/>
+      <point x="34.5" y="600.625" type="line"/>
+      <point x="34.5" y="505.6746368408203" type="line"/>
+      <point x="140.73299407958984" y="505.6746368408203" type="line"/>
+    </contour>
+  </outline>
+</glyph>

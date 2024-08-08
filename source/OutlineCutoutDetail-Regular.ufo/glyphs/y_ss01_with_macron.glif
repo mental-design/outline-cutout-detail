@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="y_ss01_with_macron" format="2">
+  <advance width="678.5"/>
+  <unicode hex="E163"/>
+  <outline>
+    <contour>
+      <point x="177.9077380952381" y="725.6258267195767" type="line"/>
+      <point x="503.5922619047619" y="725.6258267195767" type="line"/>
+      <point x="503.5922619047619" y="814.1418981481481" type="line"/>
+      <point x="177.9077380952381" y="814.1418981481481" type="line"/>
+    </contour>
+    <contour>
+      <point x="343.4864196777344" y="151.07176971435547" type="line"/>
+      <point x="146.6318130493164" y="600.625" type="line"/>
+      <point x="36.5" y="600.625" type="line"/>
+      <point x="288.8536148071289" y="26.403282165527344" type="line"/>
+      <point x="156.72686767578125" y="-275.625" type="line"/>
+      <point x="260.71087646484375" y="-275.625" type="line"/>
+      <point x="642.0" y="600.625" type="line"/>
+      <point x="538.3999786376953" y="600.625" type="line"/>
+    </contour>
+  </outline>
+</glyph>

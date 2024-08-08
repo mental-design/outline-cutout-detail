@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="j_ss02_with_acute" format="2">
+  <advance width="317.35397262351154"/>
+  <unicode hex="EF02"/>
+  <outline>
+    <contour>
+      <point x="188.98917716309103" y="679.3838627591065" type="line"/>
+      <point x="321.36867850586447" y="865.0505268826416" type="line"/>
+      <point x="209.4587511377004" y="865.0505268826416" type="line"/>
+      <point x="102.69568198486837" y="679.3838627591065" type="line"/>
+    </contour>
+    <contour>
+      <point x="100.0" y="-275.625" type="line"/>
+      <point x="204.0125" y="-275.625" type="line"/>
+      <point x="204.0125" y="600.625" type="line"/>
+      <point x="100.0" y="600.625" type="line"/>
+    </contour>
+  </outline>
+</glyph>

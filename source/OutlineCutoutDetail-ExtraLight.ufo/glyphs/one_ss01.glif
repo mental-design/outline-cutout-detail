@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one_ss01" format="2">
+  <advance width="548.3632075805663"/>
+  <unicode hex="E10B"/>
+  <outline>
+    <contour>
+      <point x="303.8820012817382" y="0" type="line"/>
+      <point x="359.18720758056634" y="0" type="line"/>
+      <point x="359.18720758056634" y="850" type="line"/>
+      <point x="156.17599999999996" y="850" type="line"/>
+      <point x="156.17599999999996" y="798.5859985351562" type="line"/>
+      <point x="303.8820012817382" y="798.5859985351562" type="line"/>
+    </contour>
+  </outline>
+</glyph>

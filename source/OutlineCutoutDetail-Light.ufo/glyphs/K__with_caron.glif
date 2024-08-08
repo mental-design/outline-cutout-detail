@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="K_with_caron" format="2">
+  <advance width="702.5338175048828"/>
+  <unicode hex="01E8"/>
+  <outline>
+    <contour>
+      <point x="179.69931122448975" y="1059.49951171875" type="line"/>
+      <point x="345.6959237733179" y="901.4075012207031" type="line"/>
+      <point x="511.692536322146" y="1059.49951171875" type="line"/>
+      <point x="416.22770020154053" y="1059.49951171875" type="line"/>
+      <point x="345.6959237733179" y="991.2714157104492" type="line"/>
+      <point x="275.1641473450952" y="1059.49951171875" type="line"/>
+    </contour>
+    <contour>
+      <point x="104.39949999999999" y="0" type="line"/>
+      <point x="182.40200244140624" y="0" type="line"/>
+      <point x="182.40200244140624" y="353.3003921508789" type="line"/>
+      <point x="213.12803088378905" y="384.40362548828125" type="line"/>
+      <point x="594.4433232421875" y="0" type="line"/>
+      <point x="703.1343175048828" y="0" type="line"/>
+      <point x="266.6744786376953" y="438.607421875" type="line"/>
+      <point x="673.0778981323242" y="850" type="line"/>
+      <point x="571.0031529541016" y="850" type="line"/>
+      <point x="182.40200244140624" y="455.6450500488281" type="line"/>
+      <point x="182.40200244140624" y="850" type="line"/>
+      <point x="104.39949999999999" y="850" type="line"/>
+    </contour>
+  </outline>
+</glyph>

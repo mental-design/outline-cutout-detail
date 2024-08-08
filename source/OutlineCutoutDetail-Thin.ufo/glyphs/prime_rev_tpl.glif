@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="prime_rev_tpl" format="2">
+  <advance width="445.9473526000977"/>
+  <unicode hex="2037"/>
+  <outline>
+    <contour>
+      <point x="130.64224395751955" y="622.125" type="line"/>
+      <point x="161.26578674316409" y="622.125" type="line"/>
+      <point x="87.22471008300782" y="850" type="line"/>
+      <point x="54.85000000000001" y="850" type="line"/>
+    </contour>
+    <contour>
+      <point x="237.05803070068362" y="622.125" type="line"/>
+      <point x="267.68157348632815" y="622.125" type="line"/>
+      <point x="193.64048919677737" y="850" type="line"/>
+      <point x="161.26578674316409" y="850" type="line"/>
+    </contour>
+    <contour>
+      <point x="343.4738174438477" y="622.125" type="line"/>
+      <point x="374.0973526000977" y="622.125" type="line"/>
+      <point x="300.05627593994143" y="850" type="line"/>
+      <point x="267.68157348632815" y="850" type="line"/>
+    </contour>
+  </outline>
+</glyph>

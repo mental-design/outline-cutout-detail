@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one_ss01_over_seven" format="2">
+  <advance width="1150.885576163278"/>
+  <unicode hex="E110"/>
+  <outline>
+    <contour>
+      <point x="143.9072716309906" y="0" type="line"/>
+      <point x="274.1181786134125" y="0" type="line"/>
+      <point x="879.2943489625336" y="850" type="line"/>
+      <point x="749.0834419801117" y="850" type="line"/>
+    </contour>
+    <contour>
+      <point x="173.0159290771484" y="303.57142639160156" type="line"/>
+      <point x="283.3534077148437" y="303.57142639160156" type="line"/>
+      <point x="283.3534077148437" y="850" type="line"/>
+      <point x="74.49799999999996" y="850" type="line"/>
+      <point x="74.49799999999996" y="749.230712890625" type="line"/>
+      <point x="173.0159290771484" y="749.230712890625" type="line"/>
+    </contour>
+    <contour>
+      <point x="937.0236616735319" y="445.65928649902344" type="line"/>
+      <point x="718.1177321081022" y="0" type="line"/>
+      <point x="834.0367079381804" y="0" type="line"/>
+      <point x="1099.387576163278" y="546.4285736083984" type="line"/>
+      <point x="709.1642561559538" y="546.4285736083984" type="line"/>
+      <point x="709.1642561559538" y="445.65928649902344" type="line"/>
+    </contour>
+  </outline>
+</glyph>
